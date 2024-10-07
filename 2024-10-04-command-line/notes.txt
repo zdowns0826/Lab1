@@ -1,0 +1,6 @@
+Ambers-Air:2024-RTT-61 zarnelldowns$ mkdir module301
+Ambers-Air:2024-RTT-61 zarnelldowns$ cd module301
+Ambers-Air:module301 zarnelldowns$ mkdir 2024-10-04-command-line/
+Ambers-Air:module301 zarnelldowns$ cd 2024-10-04-command-line/
+Ambers-Air:2024-10-04-command-line zarnelldowns$ touch notes.txt
+Ambers-Air:2024-10-04-command-line zarnelldowns$ 
